@@ -1,0 +1,69 @@
+.imgP{
+    position: sticky;
+    width: 100%;
+    left: 7%;
+    top: 10%;
+}
+
+.fondo{
+    background-color: #F5F5DC;
+    width: 91%;
+    height: 270%;
+    position: absolute;
+    left: 5%;
+    top: 80%;
+}
+
+.Deuscopía{
+    position: absolute;
+    width: 40%;
+    height: 50%;
+    top: 90%; 
+    left: 6%;
+}
+
+.SacraConversacion{
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    top: 170%; 
+    left: 45%;
+}
+
+.Freud{
+    position: absolute;
+    width: 30%;
+    height: 50%;
+    top: 240%; 
+    left: 6%;
+}
+
+.Autoretrato{
+    position: absolute;
+    width: 30%;
+    height: 50%;
+    top: 299%; 
+    left: 65%;
+}
+
+.hueco{
+    position: absolute;
+    width: 30%;
+    height: 50%;
+    top: 310%; 
+    left: 66%;
+}
+
+.titlestyle{
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 200%;
+    position: absolute;
+}
+
+.price{
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 100%;
+    position: absolute;
+}
