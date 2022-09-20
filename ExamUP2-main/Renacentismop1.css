@@ -1,0 +1,63 @@
+.imgP{
+    position: sticky;
+    width: 100%;
+    left: 7%;
+    top: 10%;
+}
+
+.fondo{
+    background-color: beige;
+    width: 90%;
+    height: 280%;
+    position: absolute;
+    left: 5%;
+    top: 70%;
+}
+
+.giocondaimg{
+    position: absolute;
+    width: 20%;
+    height: 50%;
+    top: 100%; 
+    left: 6%;
+}
+
+.venusimg{
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    top: 170%; 
+    left: 44%;
+}
+
+.ateneas{
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    top: 237%; 
+    left: 6%;
+}
+
+.camara{
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    top: 299%; 
+    left: 44%;
+}
+
+.hueco{
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    top: 310%; 
+    left: 44%;
+}
+
+.titlestyle{
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 200%;
+    position: absolute;
+}
+
